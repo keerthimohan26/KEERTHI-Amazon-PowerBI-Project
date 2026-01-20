@@ -30,7 +30,7 @@ This project analyzes Amazon sales data to uncover key business insights such as
 ![Sales Analysis](screenshots/sales_analysis.png)
 
 ### 🔹 Profit Insights
-![Profit Insights](screenshots/profit_insights.png)
+![Profit Insights](C:\Users\lenovo\Pictures\Screenshots\Profit_Insights.png)
 
 ---
 
