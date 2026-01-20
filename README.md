@@ -49,5 +49,5 @@ This project analyzes Amazon sales data to uncover key business insights such as
 
 ## 📬 Contact
 **Keerthi**  
-📧 Email: your-email@example.com  
+📧 Email: keerthimohan2014@gmail.com  
 🔗 LinkedIn: your-linkedin-profile
